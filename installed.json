@@ -13,7 +13,7 @@
           "version": "0.1.0",
           "deprecated": false,
           "category": "Arduino",
-          "url": "https://github.com/InsarMag/avr_custom_boards/blob/main/avrCustom.zip",
+          "url": "https://github.com/InsarMag/avr_custom_boards/raw/main/avrCustom.zip",
           "archiveFileName": "avrCustom.zip",
           "checksum": "SHA-256:063087667D71A2822EC763326F8D70154215BBB2407DE1CEAF39F3CF149830AB",
           "size": "8566063",
