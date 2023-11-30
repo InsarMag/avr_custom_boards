@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "arduino custome",
+      "name": "arduino custom",
       "maintainer": "Insar",
       "websiteUrl": "http://www.arduino.cc/",
       "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
