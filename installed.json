@@ -15,8 +15,8 @@
           "category": "Arduino",
           "url": "https://github.com/InsarMag/avr_custom_boards/raw/main/avrCustom.zip",
           "archiveFileName": "avrCustom.zip",
-          "checksum": "SHA-256:063087667D71A2822EC763326F8D70154215BBB2407DE1CEAF39F3CF149830AB",
-          "size": "8566063",
+          "checksum": "SHA-256:F238EE75BA5946EEEAE5F3068836E2E2C3F489F0C2A27CC31F3C11F7DB6477BA",
+          "size": "8566218",
           "boards": [
             {
               "name": "Arduino Yún"
