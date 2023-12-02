@@ -10,12 +10,12 @@
         {
           "name": "Custom Arduino AVR Boards",
           "architecture": "avr",
-          "version": "0.1.1",
+          "version": "0.1.2",
           "deprecated": false,
           "category": "Arduino",
-          "url": "https://github.com/InsarMag/avr_custom_boards/raw/adddingCustomBoard/avrCustom-0.1.1.zip",
-          "archiveFileName": "avrCustom-0.1.1.zip",
-          "checksum": "SHA-256:F238EE75BA5946EEEAE5F3068836E2E2C3F489F0C2A27CC31F3C11F7DB6477BA",
+          "url": "https://github.com/InsarMag/avr_custom_boards/raw/main/avrCustom-0.1.2.zip",
+          "archiveFileName": "avrCustom-0.1.2.zip",
+          "checksum": "SHA-256:E04EC4043E3F1DB00AD395B9CF5242B7904A67B46A7FF9501CDF59A33339AB0D",
           "size": "8566218",
           "boards": [
             {
